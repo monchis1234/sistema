@@ -1,4 +1,4 @@
-# Welcome to GitHub Desktop!
+# Pagina web de subida de imagenes.
 
 Pasos para activar el entorno virtual:
 1. estar en el la carpeta sistema/ y activar el entorno virtual; tutorial-env\Scripts\activate bat.
